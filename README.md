@@ -1,2 +1,2 @@
 # nginx-tut
-Nginx tutorial project
+Nginx tutorial project.
